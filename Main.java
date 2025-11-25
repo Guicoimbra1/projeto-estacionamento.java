@@ -458,10 +458,10 @@ public class Main {
         limpartela();
         System.out.println("Integrantes do Grupo:");
         System.out.println("------------------------------------");
-        System.out.println("1. Bruno da Silva Morinel");
+        System.out.println("1. Bruno");
         System.out.println("2. Guilherme Cruz Coimbra");
-        System.out.println("3. Isadora Moraes Rodrigues");
-        System.out.println("4. Pedro Piccoli Bruschi");
+        System.out.println("3. Isadora");
+        System.out.println("4. Pedro");
         System.out.println("------------------------------------");
         System.out.println();
         System.out.println("\nPressione ENTER para retornar ao menu...");
@@ -613,3 +613,4 @@ public class Main {
         }
     }
 }
+
